@@ -1,5 +1,4 @@
-## Hi there 👋
-
+## I"m a computer science student.
 <!--
 **kbs061117/kbs061117** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
